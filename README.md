@@ -1,1 +1,2 @@
 # Matrizes
+Exercícios de matrizes propostos na matéria de Raciocínio Algorítmico na faculdade PUCPR. Os exercícios utilizam a linguagem de programação Python e foram desenvolvidos no leitor de código-fonte VS Code. Os exercícios são compostos de matrizes de diversos tipos e tamanhos, utilizam a biblioteca NumPy para a manipulação eficiente das mesmas. Possuem funções como  sum(), reverse(), dot(), transporta(), mean(), std_diviation, random, max(), min(), append(), multiplicação, subtração, entre outras.
